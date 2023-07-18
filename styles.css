@@ -1,0 +1,101 @@
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+
+body {
+    background: url(./images/bggg.jpg);
+    width: 100%;
+    height: 100vh;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+
+.main {
+    padding: 50px;
+}
+
+body > .bg img {
+    background-image: url('C:\Users\ykund\Desktop\COMPUTER_SCIENCE\most_imp_sites\images\bggg.jpg');
+    background: #FFDFB7;
+    /* margin: 5px; */
+    /* padding: 5px; */
+    width: 100%;
+    height: 100%;
+
+}
+
+h1 {
+    text-align: center;
+    text-decoration: solid;
+    position: sticky ;
+    top: 0;
+    
+
+}
+
+.bg img {
+    border: none;
+        height: 100%;
+        pointer-events: none;
+        position: fixed;
+        top: 0;
+        visibility: hidden;
+        width: 100%;
+}
+
+.github img {
+    
+    width: 200px;
+    height: 200px;
+    border: 4px;
+    margin: 50px;
+    position: relative;
+    left: 100px;
+
+}
+
+.google-colab img {
+    width: 200px;
+    height: 200px;
+    border: 4px;
+    margin: 50px;
+    position: relative;
+    left: 450px;
+    bottom: 300px;
+
+}
+
+.udemy-web-dev img {
+    width: 200px;
+    height: 200px;
+    border: 4px;
+    margin: 50px;
+    position:  relative;
+    left: 800px;
+    bottom: 600px;
+
+}
+
+.udemy-python img {
+    width: 200px;
+    height: 200px;
+    border: 4px;
+    margin: 50px;
+    position: relative;
+    left: 100px;
+    bottom: 600px;
+}
+
+.yt-downloads img {
+    width: 200px;
+    height: 200px;
+    border: 4px;
+    margin: 50px;
+    position: relative;
+    left: 800px;
+    bottom: 904px;
+}
