@@ -19,7 +19,7 @@ body {
 }
 
 body > .bg img {
-    background-image: url('C:\Users\ykund\Desktop\COMPUTER_SCIENCE\most_imp_sites\images\bggg.jpg');
+    background-image: url('\images\bggg.jpg');
     background: #FFDFB7;
     /* margin: 5px; */
     /* padding: 5px; */
